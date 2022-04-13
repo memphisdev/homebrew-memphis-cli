@@ -1,9 +1,9 @@
 class Memphis < Formula
   desc "Greetings from Memphis - CLI"
-  homepage "https://github.com/Memphis-OS/memphis-cli"
-  url "https://github.com/Memphis-OS/memphis-cli/releases/download/v0.1.0/memphis.tar.gz"
-  sha256 "2bb20d936b954ae90fce487c7e25064b854d86dada89ceb565e467262d708566"
-  license "MIT"
+  homepage "https://memphis.dev"
+  url "https://github.com/Memphis-OS/memphis-cli/releases/download/v0.1.0/mem.tar.gz"
+  sha256 "c234d0a19504df79b4acafdc0dfe9c38829452e11e2ab183f0445b347e426812"
+  license "Apache-2.0"
 
   def install
     bin.install "memphis"
@@ -13,4 +13,3 @@ class Memphis < Formula
     system "false"
   end
 end
-
