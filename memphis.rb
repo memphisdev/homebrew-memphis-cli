@@ -1,4 +1,4 @@
-class MemphisCLI < Formula
+class Memphis < Formula
   desc "Greetings from Memphis - CLI"
   homepage "https://memphis.dev"
   url "https://github.com/Memphis-OS/memphis-cli/releases/download/v0.1.2/mem.tar.gz"
