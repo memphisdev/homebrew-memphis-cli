@@ -7,7 +7,7 @@ class Memphis < Formula
   license "Apache-2.0"
 
   def install
-    bin.install "memphiscli"
+    bin.install "memphis"
   end
 
   test do
