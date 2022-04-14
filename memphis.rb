@@ -1,4 +1,4 @@
-class Memphis < Formula
+class MemphisCLI < Formula
   desc "Greetings from Memphis - CLI"
   homepage "https://memphis.dev"
   url "https://github.com/Memphis-OS/memphis-cli/releases/download/v0.1.2/mem.tar.gz"
@@ -7,7 +7,7 @@ class Memphis < Formula
   license "Apache-2.0"
 
   def install
-    bin.install "memphis"
+    bin.install "memphiscli"
   end
 
   test do
