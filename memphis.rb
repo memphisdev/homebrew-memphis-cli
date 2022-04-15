@@ -1,9 +1,9 @@
 class Memphis < Formula
   desc "Greetings from Memphis - CLI  "
   homepage "https://memphis.dev"
-  url "https://github.com/Memphis-OS/memphis-cli/releases/download/v0.1.3/mem.tar.gz"
-  sha256 "21ac1f6e68bd149a01eeb38138c061cc703e954258c081705597f3ed4d020144"
-  version "v0.1.3"
+  url "https://github.com/Memphis-OS/memphis-cli/releases/download/v0.1.4/mem.tar.gz"
+  sha256 "0a561e0d34ef481ed65611f60bafadde088ba14f999cf6baffb72a9bbe55da0c"
+  version "v0.1.4"
   license "Apache-2.0"
 
   def install
