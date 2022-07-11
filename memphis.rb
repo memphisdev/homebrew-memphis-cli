@@ -2,7 +2,7 @@ class Memphis < Formula
   desc "Greetings from Memphis.dev - CLI  "
   homepage "https://memphis.dev"
   url "https://github.com/memphisdev/memphis-cli/releases/download/v0.3.6/mem.tar.gz"
-  sha256 "75ef4361a8fc2039353b60d33c886d327de3ff5ee0078e81fbebbe61c43c7599"
+  sha256 "f14fbaff622edc7dc57db9a075453e5cae9873209db031f892f210f458b63f88"
   version "v0.3.6"
   license "GPL-3.0"
 
